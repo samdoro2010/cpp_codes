@@ -4,3 +4,10 @@
 
 
 
+
+
+![Visitor Count](https://profile-counter.glitch.me/{samdoro2010}/count.svg)
+
+
+
+
